@@ -5,11 +5,11 @@ solucion <- function() {
   s <- NULL
   a <- NULL
   b <- NULL
-  s <- a+b
   a <- 8
-  s <- s+a
   b <- 20
+  s <- a+b
   s <- s+5
   a <- 10
+  s <- s+a
   return(s)
 }
