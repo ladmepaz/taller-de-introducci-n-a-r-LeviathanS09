@@ -8,7 +8,7 @@ solucion <- function() {
   c <- 5
   d <- 3
   x <- 3 # ingresa valor aquí
-  y <- 0 # ingresa valor aquí
+  y <- 4 # ingresa valor aquí
   s <- a*x-b
   t <- 2*s+c-d
   return(c(s,t,x,y))
